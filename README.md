@@ -1,7 +1,15 @@
-# Awesome 3074
-A repo documenting resources related to EIP-3074.
+ <h1 align="center">Awesome 3074</h1>
+  <p align="center">
+    <a href="https://github.com/sindresorhus/awesome">
+      <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+    </a>
+  </p>
+
+  <p align="center">📖 A curated list of resources dedicated to EIP-3074</p>
+  <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 ## Learning Resources
+A list of useful resources to learn about EIP-3074 and its implications.
 
 ### Blogs
 - [A note on EIP-3074](https://hackmd.io/@matt/note-on-3074)
@@ -23,7 +31,7 @@ A repo documenting resources related to EIP-3074.
 
 ## 3074 invoker implementations
 
-NOTE: All of these implementations are for batched transactions. None of these implementations are audited.
+All of these implementations are for batched transactions. **None of these implementations are audited.**
 
 - [eip-3074-foundry](https://github.com/clabby/eip-3074-foundry/tree/main) ([clabby](https://github.com/clabby), [anna-carroll](https://github.com/anna-carroll))
 - [account-abstraction-invoker](https://github.com/0xPolygon/account-abstraction-invoker) ([ZeroEkkusu](https://github.com/ZeroEkkusu), [gretzke](https://github.com/gretzke), [web3security](https://github.com/web3security), [mt-polygon-technology](https://github.com/mt-polygon-technology))
