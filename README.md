@@ -43,10 +43,13 @@ All of these implementations are for batched transactions. **None of these imple
 - [EIP3074-Invokers](https://github.com/Amxx/EIP3074-Invokers/tree/master) ([Amxx](https://github.com/Amxx)) (This repo has some obvious bugs like passing an [empty commit](https://github.com/Amxx/EIP3074-Invokers/blob/70d2fee4c250561d0996b57e74446e29acaeeab9/contracts/modules/BatchInvoker.sol#L16))
 - [InvokerDemo](https://github.com/jayden-sudo/InvokerDemo) ([jayden-sudo](https://github.com/jayden-sudo))
 
-### Use-case: Showing how an EOA could migrate to a Smart Wallet by allowing it to use the EOA funds.
+### Use-case: Showing how an EOA could migrate to a Smart Wallet by allowing it to use the EOA funds
 
 - [Coinbase hackathon project](https://github.com/coinbase/smart-wallet/pull/61) ([wilsoncusack](https://github.com/wilsoncusack))
 
+### Use-case: Turning ETH into an ERC-20 compatible token
+
+- [WETH3074](https://github.com/axic/weth3074) ([axic](https://github.com/axic))
 
 ## Dev Tools
 
