@@ -54,6 +54,7 @@ All of these implementations are for batched transactions. **None of these imple
 ## Dev Tools
 
 - [alphanet](https://github.com/paradigmxyz/alphanet): Reth AlphaNet is a testnet OP Stack rollup aimed at enabling experimentation of bleeding edge Ethereum Research. AlphaNet currently supports EIP-3074.
+- [kakarot](https://github.com/kkrt-labs/kakarot/pull/1104): Kakarot's EIP-3074 implementation in Cairo.
 - [dahe](https://github.com/quilt/dahe): a CLI tool for signing EIP-3074 auth messages.
 - [eip3074-snap](https://github.com/gretzke/eip3074-snap): Experimental MM snap for EIP-3074.
 - [remix-eip3074-signer-plugin](https://github.com/quilt/remix-eip3074-signer-plugin): Remix editor for EIP-3074.
