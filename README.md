@@ -19,6 +19,7 @@ A list of useful resources to learn about EIP-3074 and its implications.
 - [How to preserve EOA check on your contract post EIP-3074?](https://github.com/mattdf/EIP3074Protection)
 - [EIP-3074: Risks/Opportunities for Smart Account Adoption (and why we need EIP-5003)](https://safe.global/blog/eip-3074-risks-opportunities-for-smart-account-adoption)
 - [Is EIP-3074 the Next Step for Account Abstraction?](https://blog.ambire.com/eip-3074-explained)
+- [The pitfalls of EIP-3074, and how to avoid them](https://docs.zerodev.app/blog/3074-pitfalls) ([Twitter thread](https://twitter.com/decentrek/status/1784919543036719251))
 
 ### Videos
 - [EIP-3074 and the role of the EVM in a L2 world](https://www.youtube.com/watch?v=eEOb0hlrCLU)
